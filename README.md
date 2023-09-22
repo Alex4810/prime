@@ -1,7 +1,5 @@
 # Prime Number Finder
 
-![Prime Number Finder Logo](prime_number_finder_logo.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
